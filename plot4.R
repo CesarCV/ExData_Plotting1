@@ -1,4 +1,4 @@
-##### Plot 2 - Exploratory Data Analysis Course Project 1
+##### Plot 4 - Exploratory Data Analysis Course Project 1
 
 #Cargando la información
 #The database has to be in the same folder with the script
